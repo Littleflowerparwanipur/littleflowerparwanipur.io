@@ -1,0 +1,27 @@
+img {
+  border-radius: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.one{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            margin: auto;
+  width: 50%;
+  padding: 10px;
+        }
+    .fa {
+  padding: 0px;
+  font-size: 40px;
+  width: 40px;
+  text-align: justify;
+  text-decoration: none;
+  border-radius: 55%;
+}
+footer {
+  display: block;
+  background-color: lavender;
+  height: 150px;
+}

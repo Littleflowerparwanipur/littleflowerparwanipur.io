@@ -1,0 +1,24 @@
+img{
+        max-width: 100%;
+  height:25%; 
+    }
+.one{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        }
+        .two{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        color: blue;
+        }
+          .three{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        color: Red;
+        }
+        .four{
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        color: blue;
+        text-align: right;
+        }
